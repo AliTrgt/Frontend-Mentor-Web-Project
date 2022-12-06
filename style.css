@@ -33,7 +33,6 @@ header{
 }
 main{
      height: 100vh;
-     
      display: flex;
 }
 
@@ -43,8 +42,6 @@ header ul li {
    list-style: none;
    margin-right: 25px;
 
-   
-   
 }
 header  li a:hover{
     color: grey;
